@@ -1,5 +1,11 @@
-Start: Sat, 14 Feb 2015 14:00:00 -0800 
+Start: Sat, 14 Feb 2015 15:37:12 -0800 
+End: Sat, 14 Feb 2015 15:37:12 -0800 
+Tasks: Git set up, soon import current documents worked on so far. This is going to be a long day lol 
 
+Start: Sat, 14 Feb 2015 15:31:47 -0800 
+End: Sat, 14 Feb 2015 15:31:47 -0800 
+Tasks: Get everything started 
+
+Start: Sat, 14 Feb 2015 15:31:15 -0800 
 End: Sat, 14 Feb 2015 15:31:15 -0800 
-
 Tasks: Get everything started 
