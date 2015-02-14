@@ -1,3 +1,7 @@
+Start: Sat, 14 Feb 2015 15:41:08 -0800 
+End: Sat, 14 Feb 2015 15:41:08 -0800 
+Tasks: github.com set up 
+
 Start: Sat, 14 Feb 2015 15:37:12 -0800 
 End: Sat, 14 Feb 2015 15:37:12 -0800 
 Tasks: Git set up, soon import current documents worked on so far. This is going to be a long day lol 
