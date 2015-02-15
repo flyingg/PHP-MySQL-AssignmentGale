@@ -5,6 +5,9 @@ include 'password.php';
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 session_start();
+/***Sunday 2/15/15 -There is a bug I can't figure out. Individual videos won't delete when selecting just 1 ***/
+
+
 
 /***Connect to personal DB***/
 $mysqli = new mysqli("oniddb.cws.oregonstate.edu", "galeg-db", $password, "galeg-db");
