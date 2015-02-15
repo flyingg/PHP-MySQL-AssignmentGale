@@ -5,9 +5,6 @@ include 'password.php';
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 session_start();
-/***Sunday 2/15/15 -There is a bug I can't figure out. Individual videos won't delete when selecting just 1 ***/
-
-
 
 /***Connect to personal DB***/
 $mysqli = new mysqli("oniddb.cws.oregonstate.edu", "galeg-db", $password, "galeg-db");
@@ -99,7 +96,8 @@ while($row = mysqli_fetch_array($stmt))	{
 		</form> </td>";
 	}
 
-	echo "<td><form method=\"POST\" action=\"deleteAllVideos.php\">
+	/***Bug fix - calling wrong delete file***/
+	echo "<td><form method=\"POST\" action=\"deleteVideo.php\">
 	<input type=\"hidden\" name=\"nameid\" value=\"".$row['name']."\">
 	<input type=\"submit\" value=\"delete\">
 	</form> </td>
