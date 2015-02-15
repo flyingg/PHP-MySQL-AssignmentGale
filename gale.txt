@@ -1,15 +1,31 @@
-Start: Sat, 14 Feb 2015 15:41:08 -0800 
+Start: Sun, 15 Feb 2015 09:00:00 -0800 
+End: Sun, 15 Feb 2015 14:29:01 -0800 
+Tasks: Bug: I didn't have the right delete file call in place 
+
+
+Start: Sun, 15 Feb 2015 09:00:00 -0800 
+End: Sun, 15 Feb 2015 14:22:45 -0800 
+Tasks: Current bug with deleting individual videos. I think I know what it is but wanted to make note in log 
+
+
+Start: Sun, 15 Feb 2015 09:00:00 -0800 
+End: Sun, 15 Feb 2015 14:06:57 -0800 
+Tasks: Finally got my files working, were more than I wanted after last night 
+Start: Sat, 14 Feb 2015 14:00:00 -0800 
 End: Sat, 14 Feb 2015 15:41:08 -0800 
 Tasks: github.com set up 
 
-Start: Sat, 14 Feb 2015 15:37:12 -0800 
+
+Start: Sat, 14 Feb 2015 14:00:00 -0800 
 End: Sat, 14 Feb 2015 15:37:12 -0800 
 Tasks: Git set up, soon import current documents worked on so far. This is going to be a long day lol 
 
-Start: Sat, 14 Feb 2015 15:31:47 -0800 
+
+Start: Sat, 14 Feb 2015 14:00:00 -0800 
 End: Sat, 14 Feb 2015 15:31:47 -0800 
 Tasks: Get everything started 
 
-Start: Sat, 14 Feb 2015 15:31:15 -0800 
+
+Start: Sat, 14 Feb 2015 14:00:00 -0800 
 End: Sat, 14 Feb 2015 15:31:15 -0800 
 Tasks: Get everything started 
